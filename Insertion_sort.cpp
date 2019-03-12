@@ -22,7 +22,7 @@ int main()
 	cout<<" sorted array :"<<endl;
 
 
-	for(i=0;i<n;i++)
+	for(i=1;i<n;i++)
 	{
 		temp=a[i];
 		{	
